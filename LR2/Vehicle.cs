@@ -1,6 +1,6 @@
 ﻿namespace LR2
 {
-    public class Vehicle
+    public abstract class Vehicle
     {
         private int x, y;
         private int price, speed, year;
